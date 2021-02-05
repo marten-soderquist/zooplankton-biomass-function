@@ -7,7 +7,7 @@ Example use
 zpBiomass(0.4, "bosmina")
 ```
 
-This will return the estimated dry weight of a 0.4mm Bosmina sp. in mg.
+This will return the estimated dry weight of a 0.4mm *Bosmina* sp. in mg.
 
 *For what measurement that is used as the legnth for a given species consult Bottrell, et al., 1976*
 
